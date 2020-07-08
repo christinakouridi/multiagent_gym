@@ -32,15 +32,15 @@ Edit hyperparams in `agent_args.py`.
 
 <center> <b> Switch 2 </b> </center>
 
-![Alt Text](https://github.com/christinakouridi/multiagent_gym/blob/master/results/switch2_test.gif)
+![Alt Text](https://github.com/christinakouridi/multiagent_gym/blob/master/results/DDQN/switch2_test.gif)
 
-![Alt Text](https://github.com/christinakouridi/multiagent_gym/blob/master/results/switch2_learningcurve.png)
+![Alt Text](https://github.com/christinakouridi/multiagent_gym/blob/master/results/DDQN/switch2_learningcurve.png)
 
 <center> <b> Switch 4 </b> </center>
 
-![Alt Text](https://github.com/christinakouridi/multiagent_gym/blob/master/results/switch4_test.gif)
+![Alt Text](https://github.com/christinakouridi/multiagent_gym/blob/master/results/DDQN/switch4_test.gif)
 
-![Alt Text](https://github.com/christinakouridi/multiagent_gym/blob/master/results/switch4_learningcurves.png)
+![Alt Text](https://github.com/christinakouridi/multiagent_gym/blob/master/results/DDQN/switch4_learningcurves.png)
 
 ## Comments
 
