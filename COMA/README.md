@@ -18,9 +18,9 @@ Run all cells in [the Colab version](https://colab.research.google.com/drive/1jF
 
 or 
 
-Just a simple `$ python train.py`.
+Run `$ python train_combat.py`
 
-Edit hyperparams in `config.py`.
+Edit hyperparams in `config.py`
 
 ## Requirements
 
