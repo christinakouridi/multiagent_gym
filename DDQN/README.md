@@ -1,7 +1,7 @@
 
 ## Overview
 
-Adaption of DQN [Minh et al 2015](https://www.nature.com/articles/nature14236) and DDQN [van Hassalt et al 2015](https://arxiv.org/abs/1509.06461) for the multi-agent Gym environments [Switch 2 and 4](https://github.com/koulanurag/ma-gym), as part of my Multi-agent AI module assignment at UCL.
+Adaption of DQN ([Minh et al 2015](https://www.nature.com/articles/nature14236)) and DDQN ([van Hassalt et al 2015](https://arxiv.org/abs/1509.06461)) for the multi-agent Gym environments [Switch 2 and 4](https://github.com/koulanurag/ma-gym), as part of my Multi-agent AI module assignment at UCL.
 
 ## Files
 
