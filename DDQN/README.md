@@ -10,7 +10,7 @@ Adaption of DQN [Minh et al 2015](https://www.nature.com/articles/nature14236) a
 - `train_switch_simple.py`: multi-agent Switch, game from ma-gym. Train all agents concurrently on their own observations (highly unlikely to be successful)
 - `train_switch_joint_obs.py`: train agents concurrently, but on a joint observation space that concatenates all agent observations + a unique agent id
 - `train_switch_curriculum.py`: encourage Switch training by starting training for only one agent at a time, leaving untrained agents to a no-op (best performance)
-- 'DDQN_magym.ipynb': colab version of train_switch_curriculum.py best viewed directly in [Colab](https://colab.research.google.com/drive/1RV-anR5C1PqKQWXza2XubYyb4UPpFwQ0)
+- `DDQN_magym.ipynb`: colab version of train_switch_curriculum.py best viewed directly in [Colab](https://colab.research.google.com/drive/1RV-anR5C1PqKQWXza2XubYyb4UPpFwQ0)
 
 ## Usage
 
