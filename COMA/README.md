@@ -2,7 +2,7 @@
 
 ## Overview
 
-An implementation of the COMA algorithm from [Foerster et al 2017](https://arxiv.org/pdf/1705.08926.pdf). Includes easily introspectable training scripts for multi-agent Gym environments, such as Switch 4 and Combat found in [ma-gym](https://github.com/koulanurag/ma-gym).
+Implementation of the COMA algorithm developed by [Foerster et al 2017](https://arxiv.org/pdf/1705.08926.pdf). Includes easily introspectable training scripts for multi-agent Gym environments, such as Switch 4 and Combat found in [ma-gym](https://github.com/koulanurag/ma-gym).
 
 ## Files
 - `agents.py`: COMA network and agent definitions
