@@ -1,5 +1,5 @@
 cloudpickle==1.2.1
-future==0.17.1
+future==0.18.3
 gym==0.14.0
 numpy==1.16.4
 Pillow==8.1.1
